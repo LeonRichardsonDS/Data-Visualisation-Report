@@ -10,13 +10,13 @@
 ### The above is a composite visualisation I completed for my Master's 
 To see the full report, datasets and R code look in the repository above. 
 
-In my first report I investigated enterprise and employment growth in yorkshire and the humber (see IJC437 repository). However, the modelling I conducted could not explain Doncaster's exceptional enterprise performance. 
+In my first report I investigated enterprise and employment growth in Yorkshire and the Humber (see IJC437 repository). However, the modelling I conducted could not explain Doncaster's exceptional enterprise performance. 
 
 Given a second piece of coursework on the same topic, I leapt at the chance to see if I could explain through further investigation.
 
 Here's what I found...
 
 ### Key Findings:
-- Doncaster does not show exceptional growth in established businesses (at least 5 years old). 
+- Doncaster does not show exceptional growth in established businesses (those at least 5 years old). 
 - This is because its overall growth numbers are inflated by a high number of young businesses, most of which will not survive. 
 - Therefore, it may be important to distinguish between established enterprises and young enterprises in studies of business demography. 
