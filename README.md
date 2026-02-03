@@ -1,5 +1,5 @@
 # Data-Visualisation-Report
-### A composite visualisation I created and accompanying report for my Master's. 
+### A composite visualisation and accompanying report I completed for a Master's assignment. 
 
 Off the back of my investigation of enterprise growth in my first piece of coursework (see IJC437 repository) I decided to see if I could explain Doncaster's exceptional enterprise performance which my modelling could not. 
 
