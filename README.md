@@ -8,9 +8,13 @@
 
 
 ### The above is a composite visualisation and accompanying report I completed for a Master's assignment. 
-The full report, datasets and R code are available in the repository. 
+To see the full report, datasets and R code look in the repository above. 
 
-Off the back of my investigation of enterprise growth in my first piece of coursework (see IJC437 repository) I decided to see if I could explain Doncaster's exceptional enterprise performance which my modelling could not. 
+In my first report I investigated enterprise and employment growth in yorkshire and the humber (see IJC437 repository). However, the modelling I conducted could not explain Doncaster's exceptional enterprise performance. 
+
+Given a second piece of coursework on the same topic, I leapt at the chance to see if I could explain through further investigation.
+
+Here's what I found...
 
 ### Key Findings:
 - Doncaster does not show exceptional growth in established businesses (at least 5 years old). 
