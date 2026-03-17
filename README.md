@@ -7,7 +7,7 @@
 <img width="874" height="497" alt="image" src="https://github.com/user-attachments/assets/cd8ae3e8-9db8-4d25-87e7-b7a2798f2233" />
 
 
-### The above is a composite visualisation I completed for my Master's 
+### The above is a composite visualisation I completed for my MSc Data Science
 To see the full report, datasets and R code look in the repository above. 
 
 In my first report I investigated enterprise and employment growth in Yorkshire and the Humber (see IJC437 repository). However, the modelling I conducted could not explain Doncaster's exceptional enterprise performance. 
